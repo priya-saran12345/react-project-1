@@ -14,35 +14,13 @@ function App() {
   }
   return (
     <>
-    {/* // from here project 2 starts  */}
-    {/* this is the ludo game of priya */}
-
-{play?<Playgame/>:<Startgame change={changeplay}/>}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
+        
         {/* this is the project 1 shoes project  */}
-  {/* <div >
+   <div >
   <Navbar/>
   <Main/>
 
-    </div> */}
+    </div> 
     </>
   );
 }
